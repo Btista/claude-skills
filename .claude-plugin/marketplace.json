@@ -1,0 +1,14 @@
+{
+  "name": "claude-skills",
+  "owner": {
+    "name": "Sitan xi",
+    "url": "https://github.com/Btista"
+  },
+  "plugins": [
+    {
+      "name": "reading-digest",
+      "source": "./plugins/reading-digest",
+      "description": "批量文档信息精读与蒸馏 — 将混合格式文档(PDF/MD/TXT/HTML/DOCX)转化为三层蒸馏结构化信息简报"
+    }
+  ]
+}
